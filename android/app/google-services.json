@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "341678543042",
+    "project_id": "auto-d4c65",
+    "storage_bucket": "auto-d4c65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341678543042:android:4dc65bf9abc2a5efffeb5b",
+        "android_client_info": {
+          "package_name": "com.zackoumappinpt.car_rental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341678543042-gejj4vktbt6s6g1hod2m57d6rcsh1lml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zackoumappinpt.car_rental",
+            "certificate_hash": "10db70a63aee4d93baff816b111a1aaa38744a3a"
+          }
+        },
+        {
+          "client_id": "341678543042-84c2o29ijgrg7iceb3nqi9fitacnh6gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuKuczx-bvTm16_pYaSulNfyXu-0QbF6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341678543042-84c2o29ijgrg7iceb3nqi9fitacnh6gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
