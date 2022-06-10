@@ -329,6 +329,26 @@ class _UploadState extends State<Upload> {
                               Navigator.pushNamed(context, AddImage.id);
                             }),
                       ),
+                      Padding(
+                        padding: EdgeInsets.only(
+                          top: 20.0,
+                        ),
+                        child: RaisedButton(
+                            shape: RoundedRectangleBorder(
+                              borderRadius: BorderRadius.circular(8.0),
+                            ),
+                            child: Text(
+                              'TEST',
+                              style: TextStyle(
+                                color: Colors.white,
+                                fontSize: 22.0,
+                              ),
+                            ),
+                            color: Colors.deepOrange,
+                            onPressed: () {
+                              Navigator.pushNamed(context, Test.id);
+                            }),
+                      ),
                     ],
                   ),
                 ),

@@ -71,7 +71,7 @@ List<Car> getCarList() {
     Car(
       "Alfa Romeo",
       "C4",
-      3580,
+      350,
       "Monthly",
       [
         "assets/images/alfa_romeo_c4_0.png",
@@ -137,7 +137,7 @@ List<Car> getCarList() {
     Car(
       "Fiat",
       "500x",
-      1450,
+      200,
       "Weekly",
       [
         "assets/images/fiat_0.png",
